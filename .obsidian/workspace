@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3f4b1a9a9984611e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87038e42123adb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d554934fc9f91071",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0069278d86ff1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4cdb2d860f73870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c0f868115e061a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "minima",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c354870d66d164b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e98931ccac1874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5306042437ee413d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c87038e42123adb0",
+  "lastOpenFiles": [
+    "README.md",
+    "exampleSite/content/posts/typography.md",
+    "exampleSite/content/posts/post-with-featured-image.md",
+    "exampleSite/content/posts/migrate-from-jekyll.md",
+    "exampleSite/content/posts/hugoisforlovers.md",
+    "exampleSite/content/posts/goisforlovers.md",
+    "exampleSite/content/posts/creating-a-new-theme.md",
+    "exampleSite/content/posts/chloe-test.md",
+    "exampleSite/content/posts/Untitled.md",
+    "exampleSite/content/posts/the-figure-shortcode.md"
+  ]
+}
